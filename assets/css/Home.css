@@ -1,0 +1,66 @@
+
+.navbar {
+    margin-bottom: 20px;
+}
+.navbar-brand {
+    font-size: 26px;
+}
+.nav-item {
+    margin-left: 18px;
+}
+
+.jumbotron {
+    position: relative;
+    font-family: 'Raleway', sans-serif;
+    background: #eceaeae0;
+    color: #3ec2ac;
+}
+
+.lead {
+    color: #2d706b;
+    letter-spacing: 2px;
+}
+
+body {
+   background: url("../Images/jazmin-quaynor-105210-unsplash.jpg");
+   background-size: cover;
+}
+
+ /* Controls ALL cards */ 
+#card-container {
+    margin-left: 23px;
+}
+.card {
+    float: left;
+    height: 200px;
+    margin: 30px;
+    margin-bottom: 120px;
+}
+
+/* Controls ALL card titles */
+h5 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btn {
+    background: #3b9b93de;
+    border: white;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.btn:hover {
+    background: rgba(185, 99, 174, .9);
+    color: white;
+}
+
+/* Styles the Social Icons */
+.panel-body {
+    padding: 25px 0px;
+}
+
+.social {
+	width: 50px;
+	padding: 0px 10px;
+}

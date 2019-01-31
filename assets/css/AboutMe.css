@@ -1,0 +1,57 @@
+/* Styles the Navigation Bar */
+.navbar {
+    margin-bottom: 20px;
+}
+.navbar-brand {
+    font-size: 26px;
+}
+.nav-item {
+    margin-left: 18px;
+}
+
+/* Styles Social Icons */
+.panel-body {
+    padding: 25px 0px;
+}
+
+.social {
+	width: 50px;
+	padding: 0px 10px;
+}
+
+/* Styles the Jumbotron */
+.jumbotron {
+    position: relative;
+    font-family: 'Raleway', sans-serif;
+    background: #eceaeae0;
+    color: #3ec2ac;
+}
+
+.lead {
+    color: #2d706b;
+    letter-spacing: 2px;
+}
+
+/* Styles the Main Text Area */
+body {
+    background: url("../Images/jazmin-quaynor-105210-unsplash.jpg");
+    background-size: cover;
+ }
+
+h2 {
+    color: #2d706b;
+    letter-spacing: 2px;
+    text-decoration: underline;
+    font-size: 36px;
+}
+#About-Me-Text {
+    background:  #eceaeae0;
+    color: #2d706b;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+#a {
+    text-indent: 20px;
+}
