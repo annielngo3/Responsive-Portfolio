@@ -38,11 +38,21 @@ body {
     background-size: cover;
  }
 
+
 h2 {
     color: #2d706b;
     letter-spacing: 2px;
     text-decoration: underline;
     font-size: 36px;
+    padding: 15px;
+}
+
+#profile-pic {
+    height: 250px;
+    width: 250px;
+    float: left;
+    padding: 0 15px 15px 15px;
+
 }
 #About-Me-Text {
     background:  #eceaeae0;
@@ -50,8 +60,17 @@ h2 {
     font-family: 'Raleway', sans-serif;
     letter-spacing: 1px;
     font-size: 18px;
+    line-height: 30px;
+    padding-bottom: 20px;
 }
 
 #a {
     text-indent: 20px;
+}
+#b {
+    text-indent: 20px;
+}
+
+.designer-coder {
+    text-align: center;
 }
