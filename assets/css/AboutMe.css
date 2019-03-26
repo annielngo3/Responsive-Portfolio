@@ -79,6 +79,15 @@ h2 {
 }
 
 /* MOBILE RESPONSIVENESS */
+@media only screen and (max-width: 350px) {
+    h2 {
+        text-align: center;
+    }
+    #profile-pic {
+        height: 220px;
+        width: auto;
+    }
+} 
 @media only screen and (max-width: 400px) {
     h2 {
         text-align: center;
