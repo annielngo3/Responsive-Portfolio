@@ -34,7 +34,11 @@ body {
     float: left;
     height: 200px;
     margin: 30px;
-    margin-bottom: 120px;
+    margin-bottom: 250px;
+}
+
+.card-body {
+    background: whitesmoke;
 }
 
 /* Controls ALL card titles */
