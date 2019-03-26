@@ -77,3 +77,25 @@ h2 {
 .designer-coder {
     text-align: center;
 }
+
+/* MOBILE RESPONSIVENESS */
+@media only screen and (max-width: 400px) {
+    h2 {
+        text-align: center;
+    }
+    #profile-pic {
+        margin: 10px;
+        height: 260px;
+        width: auto;
+    }
+} 
+@media only screen and (max-width: 600px) {
+    h2 {
+        text-align: center;
+    }
+    #profile-pic {
+        margin-left: 20px;
+        height: 275px;
+        width: auto;
+    }
+} 
