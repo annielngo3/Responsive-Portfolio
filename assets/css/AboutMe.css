@@ -79,12 +79,13 @@ h2 {
 }
 
 /* MOBILE RESPONSIVENESS */
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 600px) {
     h2 {
         text-align: center;
     }
     #profile-pic {
-        height: 220px;
+        margin-left: 20px;
+        height: 275px;
         width: auto;
     }
 } 
@@ -97,14 +98,18 @@ h2 {
         height: 260px;
         width: auto;
     }
+    .card {
+        width: 18rem;
+        margin-left: -10px;
+    }
 } 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 350px) {
     h2 {
         text-align: center;
     }
     #profile-pic {
-        margin-left: 20px;
-        height: 275px;
+        height: 220px;
         width: auto;
     }
 } 
+
